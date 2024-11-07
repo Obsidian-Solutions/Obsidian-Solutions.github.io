@@ -1,53 +1,70 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Obsidian Solutions: Your Trusted Partner for IT Excellence"
+  content: "Whether you need device repair, maintenance, custom solutions, or cybersecurity and networking, we're here to keep your tech running smoothly and securely."
+  image: "/images/banner-obsidian.svg"  
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Get a Free Consultation"
+    link: "/contact" 
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Repairs Done Right"
+    image: "/images/repair-tech.svg"  
+    content: "We're experts at repairing smartphones, laptops, computers, and more. Our team can tackle cracked screens, liquid damage, battery issues, software glitches, and hardware problems with precision and expertise."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Affordable rates and transparent pricing"
+      - "High-quality replacement parts"
+      - "Thorough diagnostics and expert repairs"
+      - "Warranty on all repairs"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Schedule a Repair"
+#      link: "/repair-services"
+      link: "/contact" 
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Preventive Maintenance for Peak Performance"
+    image: "/images/maintenance-tech.svg"  
+    content: "Prevent costly repairs and downtime with our comprehensive maintenance plans. We'll keep your devices clean, optimized, and up-to-date, ensuring they run at their best for longer."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Regular cleaning and dust removal"
+      - "Software updates and optimization"
+      - "Hardware inspections and preventative measures"
+      - "Tailored maintenance packages to suit your needs"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Learn More About Maintenance"
+#      link: "/maintenance-services"
+      link: "/contact" 
+
+  - title: "Custom Solutions to Match Your Unique Needs"
+    image: "/images/custom-solutions.svg"  
+    content: "We go beyond standard services to provide custom solutions tailored to your specific requirements. Whether you need hardware upgrades, IoT device configuration, router setup, or other IT challenges, we're here to help."
+    bulletpoints:
+      - "Personalized IT consultation"
+      - "Expert hardware installation"
+      - "Router setup and optimization"
+      - "IoT device configuration"
+    button:
+      enable: true
+      label: "Get a Custom Quote"
+#      link: "/custom-solutions"
+      link: "/contact" 
+
+  - title: "Secure Your Digital Life with Obsidian Solutions"
+    image: "/images/cybersecurity-tech.svg"  
+    content: "Protect your devices, network, and data from cyber threats with our comprehensive cybersecurity services. We offer personalized consultations, firewall configuration, and secure networking solutions to keep you safe online."
+    bulletpoints:
+      - "Cybersecurity consultation and risk assessment"
+      - "Firewall setup and management"
+      - "Secure network design and implementation"
+      - "Remote access solutions"
+      - "Ongoing IT support and maintenance"
+    button:
+      enable: true
+      label: "Secure Your Network"
+#      link: "/cybersecurity-services"
+      link: "/contact" 
 ---
