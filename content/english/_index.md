@@ -1,70 +1,78 @@
 ---
 # Banner
 banner:
-  title: "Obsidian Solutions: Your Trusted Partner for IT Excellence"
-  content: "Whether you need device repair, maintenance, custom solutions, or cybersecurity and networking, we're here to keep your tech running smoothly and securely."
-  image: "/images/banner-obsidian.svg"  
+  title: "Obsidian Solutions: Your Remote Partner for IT Excellence"
+  content: "From server maintenance and cybersecurity to custom solutions, we provide expert remote support to keep your business running smoothly and securely."
+  image: "/images/banner-obsidian.svg"
   button:
     enable: true
     label: "Get a Free Consultation"
-    link: "/contact" 
+    link: "/contact"
 
 # Features
 features:
-  - title: "Repairs Done Right"
-    image: "/images/repair-tech.svg"  
-    content: "We're experts at repairing smartphones, laptops, computers, and more. Our team can tackle cracked screens, liquid damage, battery issues, software glitches, and hardware problems with precision and expertise."
+  - title: "Streamline Your Infrastructure with Remote Server Management"
+    image: "/images/maintenance-tech.svg"
+    content: "Keep your servers up-to-date and secure with our remote maintenance and support plans. We handle patching and performance tuning, so you can focus on your business."
     bulletpoints:
-      - "Affordable rates and transparent pricing"
-      - "High-quality replacement parts"
-      - "Thorough diagnostics and expert repairs"
-      - "Warranty on all repairs"
+      - "Efficient remote maintenance and updates"
+      - "Leverage configuration management for consistency"
+      - "Performance monitoring and optimisation"
+      - "Tailored solutions for your specific needs"
     button:
       enable: true
-      label: "Schedule a Repair"
-#      link: "/repair-services"
-      link: "/contact" 
+      label: "View Server Services"
+      link: "/services/server-management"
 
-  - title: "Preventive Maintenance for Peak Performance"
-    image: "/images/maintenance-tech.svg"  
-    content: "Prevent costly repairs and downtime with our comprehensive maintenance plans. We'll keep your devices clean, optimized, and up-to-date, ensuring they run at their best for longer."
+  - title: "Secure Your Remote Workforce with VPN and Network Setup"
+    image: "/images/cybersecurity-tech.svg"
+    content: "Protect your data and ensure secure access for your team with our networking and cybersecurity services. We specialise in secure network design, WireGuard VPN setup, and firewall configuration."
     bulletpoints:
-      - "Regular cleaning and dust removal"
-      - "Software updates and optimization"
-      - "Hardware inspections and preventative measures"
-      - "Tailored maintenance packages to suit your needs"
+      - "WireGuard VPN implementation for secure remote access"
+      - "Network design and firewall configuration"
+      - "Personalised cybersecurity consultations"
+      - "Ongoing support to protect your data"
     button:
       enable: true
-      label: "Learn More About Maintenance"
-#      link: "/maintenance-services"
-      link: "/contact" 
+      label: "Explore Network Solutions"
+      link: "/services/network-solutions"
 
-  - title: "Custom Solutions to Match Your Unique Needs"
-    image: "/images/custom-solutions.svg"  
-    content: "We go beyond standard services to provide custom solutions tailored to your specific requirements. Whether you need hardware upgrades, IoT device configuration, router setup, or other IT challenges, we're here to help."
+  - title: "Website Support & Maintenance"
+    image: "/images/cms.svg"
+    content: "We provide comprehensive remote support to keep your website running at its best. From updates and security patches to general troubleshooting, we're here to help."
     bulletpoints:
-      - "Personalized IT consultation"
-      - "Expert hardware installation"
-      - "Router setup and optimization"
-      - "IoT device configuration"
+      - "Regular website updates and security checks"
+      - "Plugin and theme management"
+      - "Performance optimisation and troubleshooting"
+      - "New website setup and migration services"
+    button:
+      enable: true
+      label: "See Website Plans"
+      link: "/services/website-support"
+
+  - title: "Beyond the Standard: Custom IT Solutions"
+    image: "/images/custom-solutions.svg"
+    content: "We go beyond standard services to provide tailored solutions for your unique IT challenges. Our expertise in Linux and Microsoft business administration allows us to offer versatile support for your business."
+    bulletpoints:
+      - "Linux system administration and troubleshooting"
+      - "Microsoft business account and email management"
+      - "User setup and permissions in the Microsoft Admin Centre"
+      - "Remote diagnostics for diverse software and hardware issues"
     button:
       enable: true
       label: "Get a Custom Quote"
-#      link: "/custom-solutions"
-      link: "/contact" 
+      link: "/services/custom-solutions"
 
-  - title: "Secure Your Digital Life with Obsidian Solutions"
-    image: "/images/cybersecurity-tech.svg"  
-    content: "Protect your devices, network, and data from cyber threats with our comprehensive cybersecurity services. We offer personalized consultations, firewall configuration, and secure networking solutions to keep you safe online."
+  - title: "Boost Efficiency with Containerisation"
+    image: "/images/repair-tech.svg"
+    content: "Ready to modernise your applications? We can help you get started with containerisation. Our experience allows us to help you build and manage containerised applications for improved portability and resource efficiency."
     bulletpoints:
-      - "Cybersecurity consultation and risk assessment"
-      - "Firewall setup and management"
-      - "Secure network design and implementation"
-      - "Remote access solutions"
-      - "Ongoing IT support and maintenance"
+      - "Containerisation strategy and implementation"
+      - "Build and manage containers"
+      - "Expert guidance for application modernisation"
+      - "Optimised performance and resource usage"
     button:
       enable: true
-      label: "Secure Your Network"
-#      link: "/cybersecurity-services"
-      link: "/contact" 
+      label: "Learn About Containerisation"
+      link: "/services/containerisation"
 ---
