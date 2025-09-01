@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-meta_title: "Privacy Policy | Obsidian Solutions" 
+meta_title: "Privacy Policy | Obsidian Solutions"
 description: "Unveil the secrets of your privacy. Obsidian Solutions' policy explained within."
 draft: false
 ---
