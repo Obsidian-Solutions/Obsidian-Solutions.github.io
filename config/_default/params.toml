@@ -33,12 +33,12 @@ copyright = "Designed by [Matthew Barker](https://instagram.com/mbarkeruk02) and
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "svg" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Get A Quote"
 link = "contact"
 
 # search
@@ -64,7 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["Obsidian", "Obsidian Solutions"]
 description = "Obsidian Repair Solutions"
-author = "matthew barker"
+author = "Matthew Barker"
 image = "images/og-image.png"
 
 # site verifications
@@ -79,7 +79,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
