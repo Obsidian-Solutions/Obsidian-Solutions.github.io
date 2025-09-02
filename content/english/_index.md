@@ -15,10 +15,10 @@ features:
     image: "/images/maintenance-tech.svg"
     content: "Keep your servers up-to-date and secure with our remote maintenance and support plans. We handle patching and performance tuning, so you can focus on your business."
     bulletpoints:
-      - "Efficient remote maintenance and updates"
-      - "Leverage configuration management for consistency"
+      - "Proactive maintenance and security updates"
+      - "Reliability and disaster recovery planning"
       - "Performance monitoring and optimisation"
-      - "Tailored solutions for your specific needs"
+      - "Expert support for your specific needs"
     button:
       enable: true
       label: "View Server Services"
@@ -29,7 +29,7 @@ features:
     content: "Protect your data and ensure secure access for your team with our networking and cybersecurity services. We specialise in secure network design, WireGuard VPN setup, and firewall configuration."
     bulletpoints:
       - "WireGuard VPN implementation for secure remote access"
-      - "Network design and firewall configuration"
+      - "Custom network design and firewall configuration"
       - "Personalised cybersecurity consultations"
       - "Ongoing support to protect your data"
     button:
@@ -39,29 +39,16 @@ features:
 
   - title: "Website Support & Maintenance"
     image: "/images/cms.svg"
-    content: "We provide comprehensive remote support to keep your website running at its best. From updates and security patches to general troubleshooting, we're here to help."
+    content: "We provide comprehensive remote support for your website, focusing on server-side health, diagnostics, and migration."
     bulletpoints:
-      - "Regular website updates and security checks"
-      - "Plugin and theme management"
-      - "Performance optimisation and troubleshooting"
-      - "New website setup and migration services"
+      - "Proactive server & software management"
+      - "Website migration & DNS setup"
+      - "Expert diagnostics & troubleshooting"
+      - "Specialised Wagtail framework support"
     button:
       enable: true
-      label: "See Website Plans"
+      label: "See Website Solutions"
       link: "/services/website-support"
-
-  - title: "Beyond the Standard: Custom IT Solutions"
-    image: "/images/custom-solutions.svg"
-    content: "We go beyond standard services to provide tailored solutions for your unique IT challenges. Our expertise in Linux and Microsoft business administration allows us to offer versatile support for your business."
-    bulletpoints:
-      - "Linux system administration and troubleshooting"
-      - "Microsoft business account and email management"
-      - "User setup and permissions in the Microsoft Admin Centre"
-      - "Remote diagnostics for diverse software and hardware issues"
-    button:
-      enable: true
-      label: "Get a Custom Quote"
-      link: "/services/custom-solutions"
 
   - title: "Boost Efficiency with Containerisation"
     image: "/images/repair-tech.svg"
@@ -75,4 +62,17 @@ features:
       enable: true
       label: "Learn About Containerisation"
       link: "/services/containerisation"
+
+  - title: "Specialist Support"
+    image: "/images/custom-solutions.svg"
+    content: "We go beyond standard services to provide tailored solutions for your unique IT challenges. Our expertise in Linux and Microsoft business administration allows us to offer versatile support for your business."
+    bulletpoints:
+      - "Linux system administration and troubleshooting"
+      - "Microsoft business account and admin centre management"
+      - "Custom cloud hosting solutions for different applications"
+      - "Remote diagnostics for diverse software and hardware issues"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/services/custom-solutions"
 ---
