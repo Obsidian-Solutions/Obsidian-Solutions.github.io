@@ -12,12 +12,43 @@ weight = 2
 [[main]]
 name = "Services"
 url = "services/"
+hasChildren = true
 weight = 3
+
+[[main]]
+parent = "Services"
+name = "Remote Server Management"
+url = "/services/server-management"
+weight = 1
+
+[[main]]
+parent = "Services"
+name = "Network Solutions"
+url = "/services/network-solutions"
+weight = 2
+
+[[main]]
+parent = "Services"
+name = "Website Support & Maintenance"
+url = "/services/website-support"
+weight = 3
+
+[[main]]
+parent = "Services"
+name = "Containerisation Solutions"
+url = "/services/containerisation"
+weight = 4
+
+[[main]]
+parent = "Services"
+name = "Custom Solutions"
+url = "/services/custom-solutions"
+weight = 5
 
 #[[main]]
 #weight = 4
-#name = "Pages"
-#hasChildren = true
+#name = "Pricing"
+#url = "pricing/"
 
 #[[main]]
 #parent = "Pages"
@@ -47,9 +78,14 @@ weight = 3
 
 # footer menu
 [[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
 name = "About Me"
 url = "about/"
-weight = 1
+weight = 2
 
 [[footer]]
 name = "Services"
