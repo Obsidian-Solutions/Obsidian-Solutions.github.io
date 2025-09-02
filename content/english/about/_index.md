@@ -1,23 +1,35 @@
 ---
-title: "Hey, I'm Matthew Barker"
-meta_title: "About"
-description: "A curious mind on the go"
+title: "About Me"
+meta_title: "Matthew Barker | Entrepreneur & IT Professional"
+description: "An entrepreneur and jack of all trades with 10+ years of IT expertise."
 image: "/images/avatar.jpeg"
 draft: false
 ---
 
-Greetings and salutations! I'm a passionate individual driven by an insatiable thirst for knowledge and a relentless pursuit of self-improvement. My curiosity casts a wide net, spanning from the intricate logic of cybersecurity to the mind-bending mysteries of quantum mechanics, with detours into the creative landscape of gothic metal and the exhilarating world of esports.
+## An Entrepreneur and IT Professional with Over 10 Years of Expertise
 
-On the technical side, I'm a veritable swiss army knife. Programming languages sing to my fingertips, software and hardware are my playground, and networking and security are woven into the fabric of my digital expertise. Certifications in IT & Cybersecurity, SOC Analyst training, and a mastery of incident response procedures are just a few feathers in my technical cap.
+I am an entrepreneur and a jack of all trades with over a decade of hands-on experience in the IT industry. My professional journey has taken me from founding and operating my own computer repair business, Obsidian Solutions, to my current role managing and optimising Linux infrastructures. I am passionate about mastering technology and applying my diverse skills to solve real-world problems for my clients.
 
-But I'm much more than just bits and bytes. My academic pursuits delve into the fundamental laws of the universe with quantum mechanics and nuclear physics, while psychology offers a fascinating glimpse into the depths of the human mind. And when I'm not learning, I find solace and expression in the dark symphony of gothic metal, the intricate artistry of digital art, and the ever-evolving challenges of gaming.
 
-My experiences paint a diverse picture. As a self-employed computer technician, I tackled the challenges of running my own business, honing my resourcefulness and problem-solving skills. At the warehouse, I wasn't just a picker – I was a logistical ninja, streamlining workflows and optimizing efficiency. And my coaching and tutoring work, from esports to advanced physics, has fueled my passion for guiding others towards success.
+## Professional Experience & Skills
 
-So, what drives me? A simple desire to make a difference. I believe technology has the power to transform the world, and I'm eager to leverage my skills to solve real-world problems and contribute to the development of innovative solutions that enhance lives and address global challenges.
+My professional expertise is built on a strong foundation of practical experience. I proactively manage and maintain robust Linux infrastructure, implement stringent security measures, and efficiently diagnose and resolve complex technical issues to minimise system downtime. My core skills include:
 
-Intrigued? Take a closer look! Explore my website, delve into my projects, and let's connect – together, we can unlock the possibilities of tomorrow.
+* **Linux Systems:** Proactive management of Linux infrastructure, system upgrades, and vulnerability assessments.
+* **DevOps:** Expertise in CI/CD, project planning, and organisation to streamline workflows for long-term efficiency.
+* **Networking:** Expertise in Internet Protocol Suite (TCP/IP) and Wireguard.
+* **Website Technologies:** Experience with bespoke frameworks like Wagtail and building static sites.
+* **Containerisation:** Knowledge of container technologies including Podman and Podfile building, as well as virtual machine setup.
+* **Diagnostics & Support:** Diagnosing and resolving complex technical issues and providing technical support to customers.
 
-But for now, remember: a curious mind never gets bored.
+My commitment to continuous learning is reflected in my certifications in Cyber Security, including incident response, threat intelligence, and security operations.
 
-P.S. Did I mention I'm only 22? Buckle up, the best is yet to come!
+## My Approach to Business
+
+As the business owner of Obsidian Solutions, I independently managed all operations, from client acquisition to system setup. This experience honed my problem-solving skills, resourcefulness, and ability to ensure client satisfaction.
+
+I also believe in the importance of transparency and education. By being honest and helping clients understand exactly what they're getting with a repair or service, I not only build a trusting relationship but also empower them with the knowledge to make informed decisions.
+
+I am a driven and resilient individual, always seeking innovative solutions and new challenges. I am excited to continue leveraging my skills to contribute to a more secure and efficient digital world.
+
+If you are looking for an experienced and dedicated professional to help with your IT needs, feel free to connect with me.
