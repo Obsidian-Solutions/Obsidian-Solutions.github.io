@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Obsidian", "Obsidian Solutions"]
+keywords = ["Obsidian", "Obsidian Solutions", "IT Services", "IT Consultancy", "Technical Support", "IT Consulting", "Linux Infrastructure", "DevOps", "Cybersecurity", "Information Security", "Web Development", "Computer Networking", "Network Support", "Computer Repair", "West Devon", "Devon", "Website Support", "Website Maintenance", "Server Management", "Remote Server Management", "Server-side", "Static websites", "Hugo", "Wagtail", "Apache", "Nginx", "DNS Setup", "Website Migration", "Diagnostics", "Troubleshooting", "Proactive Protection", "Network Solutions", "VPN", "Network Setup", "Remote Workforce", "WireGuard VPN", "Firewall Configuration", "Personalised Cybersecurity Consultations", "Custom IT Solutions", "Linux System Setup", "Cloud Hosting Solutions", "Cloud Management", "Microsoft business administration", "Remote Diagnostics", "Hardware issues", "Software issues", "Containerisation", "Application Modernisation", "Podman", "Docker", "Virtual machine", "VM", "Container strategy", "Advanced configuration", "Persistent storage", "System Audits", "Performance Optimisation"]
 description = "Obsidian Repair Solutions"
 author = "Matthew Barker"
 image = "images/og-image.png"
