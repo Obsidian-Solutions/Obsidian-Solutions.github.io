@@ -9,7 +9,6 @@ node_modules
 builds
 public/*
 !public/images/
-package-lock.json
 resources
 .hugo_build.lock
 jsconfig.json
