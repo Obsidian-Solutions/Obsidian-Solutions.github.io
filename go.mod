@@ -1,4 +1,4 @@
-module hugoplate.netlify.app
+module github.com/obsidian-solutions/obsidian-solutions.github.io
 
 go 1.21
 
@@ -7,6 +7,7 @@ require (
 	github.com/gethugothemes/hugo-modules/adsense v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/components/announcement v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/components/cookie-consent v0.0.0-20250702070945-cd8319c6b26e // indirect
+	github.com/gethugothemes/hugo-modules/components/crisp-chat v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/components/custom-script v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/components/preloader v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/components/render-link v0.0.0-20250702070945-cd8319c6b26e // indirect
@@ -27,5 +28,4 @@ require (
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20250702070945-cd8319c6b26e // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
-	github.com/zeon-studio/hugoplate v0.0.0-20250819025659-244cbfc649ba // indirect
 )
