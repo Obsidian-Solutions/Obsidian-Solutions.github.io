@@ -63,7 +63,7 @@ jobs:
         run: rm -rf public
 
       - name: Build site with Hugo
-        run: hugo --gc --minify
+        run: hugo --ignoreCache --gc --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
