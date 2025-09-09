@@ -58,6 +58,10 @@ jobs:
       - name: Run project setup script
         run: npm run project-setup
 
+      # Ensure the public directory is clean before building
+      - name: Clean public directory
+        run: rm -rf public
+
       - name: Build site with Hugo
         run: hugo --gc --minify
 
