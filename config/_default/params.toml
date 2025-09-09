@@ -31,8 +31,8 @@ disable = false
 respectDoNotTrack = true
 
 # google tag manager, see https://developers.google.com/tag-manager/
-#google_tag_manager = "GTM-KQ29DTFM" # example: G-XXXXXXXXXX
-#google_analytics = 'G-X3DFDXD507'
+google_tag_manager = "GTM-KQ29DTFM" # example: G-XXXXXXXXXX
+google_analytics = 'G-X3DFDXD507'
 #google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
