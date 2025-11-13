@@ -25,7 +25,7 @@ contact_form_action = "https://airform.io/matthewbarker@librem.one" # contact fo
 google_tag_manager = "GTM-KQ29DTFM" # example: G-XXXXXXXXXX
 #google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/daf7320e0448fbeadfd044f8/script.js"></script>"
 # copyright
 copyright = "Designed by [Matthew Barker](https://www.linkedin.com/in/mbarkeruk) and Developed by [Zeon Studio](https://zeon.studio)"
 
