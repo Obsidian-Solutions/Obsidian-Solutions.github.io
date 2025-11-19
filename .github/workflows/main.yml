@@ -38,7 +38,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           # Caches npm dependencies to speed up future runs
-          cache: 'npm'
+          cache: "npm"
 
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -48,7 +48,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '${{ env.HUGO_VERSION }}'
+          hugo-version: "${{ env.HUGO_VERSION }}"
           extended: true
 
       - name: Install npm dependencies
