@@ -1,0 +1,14 @@
+# Commit format check
+# Calls the org reusable gate, so the logic lives in one place and
+# this repository runs exactly one execution per pull request.
+name: Commit format
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    uses: Obsidian-Solutions/.github/.github/workflows/commit-format.yml@58e7b55b05eb406c880fc4b272cd9b8b36b0d459
