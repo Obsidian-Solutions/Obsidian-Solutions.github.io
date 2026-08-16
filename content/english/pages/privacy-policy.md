@@ -1,65 +1,57 @@
 ---
 title: "Privacy Policy"
 meta_title: "Privacy Policy | Obsidian Solutions"
-description: "Unveil the secrets of your privacy. Obsidian Solutions' policy explained within."
+description: "How Obsidian Solutions handles personal information."
 draft: false
 ---
 
-**Privacy Commitment**
+**Controller**
 
-Obsidian Solutions prioritizes the protection of your privacy as a fundamental principle. We are dedicated to handling your personal information with transparency, integrity, and security. This Privacy Policy aims to elucidate our practices regarding the information we collect, how we use it, and the measures we take to safeguard it.
+Obsidian Solutions is a UK sole-trader business run by Matthew Barker.
+This policy covers the website obsidiansolutions.co.uk and its sub-pages.
+For any question about this policy, contact us at security@obsidiansolutions.co.uk.
 
-**User Responsibility**
+**What we collect**
 
-We encourage active participation within our community, but we also uphold standards for responsible content sharing. Please abide by the following guidelines:
+This website is a static site. It does not ask you to create an account
+and it has no forms that collect names, postal addresses, or payment
+details.
 
-- Refrain from posting content that is offensive, discriminatory, or violates the privacy of others.
-- Respect the diverse perspectives within our community.
-- Avoid sharing information that could compromise the security of yourself or others.
+We receive the minimum technical data your browser sends to any website
+it visits, such as your IP address and browser type. We use this only to
+operate and protect the site.
 
-Obsidian Solutions reserves the right to remove content that breaches these guidelines and to take appropriate action against violators.
+If you email us, we keep your message and your address only as long as
+we need it to deal with your enquiry.
 
-**Information Collection**
+**Lawful basis**
 
-To provide optimal services and experiences, we may collect certain personal information, including:
+We rely on legitimate interest to respond to enquiries you send us.
+If the site ever uses cookies or analytics, we will ask for consent
+before setting them and we will update this policy.
 
-- Names
-- Email addresses
-- Phone numbers
-- Physical addresses
-- IP addresses
+**Your rights**
 
-This information may be collected through:
+Under the UK General Data Protection Regulation you have the right to:
 
-- Forms submitted on our website
-- Emails or messages exchanged with us
-- Website analytics tools
+- access the personal data we hold about you
+- ask us to correct inaccurate data
+- ask us to delete your data
+- object to our processing
+- ask for a copy of your data in a portable form
 
-We utilize this information to:
+To exercise any of these rights, email security@obsidiansolutions.co.uk.
+We will respond within one month. You may also complain to the
+Information Commissioner's Office at ico.org.uk.
 
-- Fulfill service or information requests
-- Enhance user experience
-- Communicate important updates
-- Conduct research to improve services
+**Retention**
 
-**Information Protection**
+We keep personal data only for as long as the purpose requires. When it
+is no longer needed, we delete it.
 
-We prioritize the security of your personal information. We employ various measures to safeguard it, including:
+**Changes**
 
-- Secure data storage practices
-- Encryption technologies
-- Access controls and authorization procedures
+If we change this policy, we will update this page and the change date
+below.
 
-We retain personal information only for the duration necessary to fulfill the purposes outlined in this policy.
-
-**Policy Updates**
-
-We may update this Privacy Policy to align with evolving practices or legal requirements. We will notify you of significant changes through email or prominent website announcements.
-
-**Additional Information**
-
-- **Third-Party Cookies:** We may use third-party cookies or tracking technologies to enhance user experience and gather analytics data. You can manage your cookie preferences through your browser settings.
-- **Accessing and Managing Information:** You have the right to access, update, or delete your personal information. Please contact us using the information below to exercise these rights.
-- **Contact Us:** If you have any questions or concerns regarding our privacy practices, please contact us.
-
-We remain dedicated to upholding transparency and responsible data handling practices. Your privacy is of utmost importance to us, and we are committed to its protection within our digital realm.
+Last updated: 16 August 2026.
