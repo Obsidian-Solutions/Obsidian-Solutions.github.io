@@ -24,7 +24,7 @@
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.26",
     "postcss-cli": "^11.0.1",
-    "prettier": "^3.3.3",
+    "prettier": "^3.9.6",
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.6.8",
     "tailwind-bootstrap-grid": "^5.1.0",
